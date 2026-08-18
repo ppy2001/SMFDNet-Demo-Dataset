@@ -3,9 +3,9 @@ train: images/train
 val: images/val
 test: images/test
 
+nc: 4
 names:
   0: Tube Cap
-  1: Oscillator Landmark
-  2: Reference Marker
-  3: Centrifuge Marker
-  4: Mini-Centrifuge Marker
+  1: Reference Marker
+  2: Centrifuge Marker
+  3: Mini-Centrifuge Marker
